@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mushtaq Hejira</h1>
+
+<h1 align="center">Hi there 👋, I'm Mushtaq Hejira</h1>
 <h3 align="center">A passionate Namtive applications and web developer from Yemen</h3>
 
 - 🌱 I’m currently learning **Laravel , Node JS,**
